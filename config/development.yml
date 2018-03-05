@@ -1,0 +1,5 @@
+aws:
+  access_key_id: dev_123
+  secret_access_key: dev_345
+
+secret_key_base: dev_33314a57f2148d3f9993d34d
